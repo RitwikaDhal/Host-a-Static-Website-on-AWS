@@ -2,8 +2,6 @@
 
 ## Overview
 
-This project demonstrates the design and implementation of a **production-grade, highly available, and secure web architecture on AWS**.
-
 The system is designed using **private subnets, load balancing, auto scaling, and HTTPS enforcement**, ensuring fault tolerance, scalability, and secure access.
 
 

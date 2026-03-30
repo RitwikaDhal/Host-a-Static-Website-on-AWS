@@ -7,8 +7,8 @@ This project demonstrates the design and implementation of a **production-grade,
 The system is designed using **private subnets, load balancing, auto scaling, and HTTPS enforcement**, ensuring fault tolerance, scalability, and secure access.
 
 
-## 🏗️ Architecture
-
+## Architecture
+![Architecture Diagram](architecture.png)
 
 ## Architecture Breakdown
 
